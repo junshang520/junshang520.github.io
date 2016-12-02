@@ -24,7 +24,7 @@ after_script:
 
 branches:
   only:
-    - blog-source
+    - blog
 env:
  global:
-   - GH_REF: https://github.com/junshang520/junshang520.github.io.git
+   - GH_REF: github.com/junshang520/junshang520.github.io.git
