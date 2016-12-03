@@ -1,6 +1,6 @@
 fancybox: true ## If you want to use fancybox please set the value to true.
 duoshuo: woaipingguowang ## Your duoshuo_shortname, e.g. username
-disqus: ## Your disqus_shortname, e.g. username
+# disqus: ## Your disqus_shortname, e.g. username
 google_search: #true ## Use Google search, true/false.
 baidu_search: true ## Use Baidu search, true/false.
 swiftype: ## Your swiftype_key, e.g. m7b11ZrsT8Me7gzApciT
@@ -18,16 +18,16 @@ menu:
     directory: .
     icon: fa-home
   - page: shige
-    directory: /shige
+    directory: /categories/诗词歌赋/
     icon: fa-university
   - page: duanpian
-    directory: /duanpian
+    directory: /categories/短篇/
     icon: fa-blind
   - page: xinde
-    directory: /xinde
+    directory: /categories/心得随笔/
     icon: fa-camera
   - page: xiezuo
-    directory: /xiezuo
+    directory: /categories/写作指南/
     icon: fa-pencil-square
   - page: archive
     directory: archives/
@@ -54,13 +54,27 @@ links:
 
 timeline:
   - num: 1
-    word: 2014/06/12-Start
+    word: 2006年 刚上高中因为同学的一本郭敬明的小说《悲伤逆流成河》而爱上文学。
   - num: 2
-    word: 2014/11/29-XXX
+    word: 2007年 手痒模仿《悲伤逆流成河》的写法在笔记本写了《悲鸣花》三章。
   - num: 3
-    word: 2015/02/18-DDD
+    word: 2007年6月 听同桌说写的小说可以发在起点赚钱，稀里糊涂在起点注册笔名颜影舞蝶。
   - num: 4
-    word: More
+    word: 2007年七月 开始把自己仿照写的小说放在起点，成绩惨败收场。
+  - num: 5
+    word: 2008年三月 在笔记本上写了七章武侠短篇小说《泪与仇》在网上发表。
+  - num: 6
+    word: 2008下旬 收到花火等杂志的影响写了很多短篇投了杂志社没有任何的音讯。
+  - num: 7
+    word: 2009年初 开始写第一个长篇小说《风云龙虎会》因为高三临近毕业写了三十万言情。
+  - num: 8
+    word: 2010年3月 继续《风云龙虎会》后续的篇章，因为懂得网络小说写法，从言情转到黑道到最后的黑道异能。原本积累的言情读者都气走了，后来下不下去就断了。
+  - num: 9
+    word: 2011年 因为蒙面哥才华爱上了歌词,就尝试写了很多的歌词。
+  - num: 10
+    word: 2012年 因为生活的压力，让我本初买电脑才报的软件专业真的搞起了软件专业来养家。
+  - num: 11
+    word: 2016年末 因为女儿的出生，想为女儿正道。准备回到初心继续的写小说，不为钱，不为名，只为以后可以为女儿正道。
 
 # Static files
 js: js
