@@ -24,7 +24,7 @@ menu:
     directory: /categories/短篇/
     icon: fa-blind
   - page: xinde
-    directory: /categories/心得随笔/
+    directory: /categories/心情随笔/
     icon: fa-camera
   - page: xiezuo
     directory: /categories/写作指南/
