@@ -29,6 +29,9 @@ menu:
   - page: xiezuo
     directory: /categories/写作指南/
     icon: fa-pencil-square
+  - page:changpian
+    directory: /categories/长篇小说区/
+    icon: fa-blind
   - page: archive
     directory: archives/
     icon: fa-archive
