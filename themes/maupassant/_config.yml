@@ -50,8 +50,8 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: 君赏文学网
-    url: http://joser.cc
+  - title: 君赏iOS技术博客
+    url: http://ios.joser.cc
 
 
 timeline:
