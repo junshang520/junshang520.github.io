@@ -75,3 +75,6 @@ deploy:
   type: git
   repo: https://github.com/junshang520/junshang520.github.io.git
   branch: master
+
+admin:
+  deployCommand: './hexo-deploy.sh'
